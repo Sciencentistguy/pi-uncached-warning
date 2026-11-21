@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "description": "Pi extension that warns when the prompt cache has expired and suggests /new to save tokens",
   "keywords": ["pi-package"],
-  "license": "MIT",
+  "license": "MPL-2.0",
   "pi": { "extensions": ["./extensions/index.ts"] }
 }
