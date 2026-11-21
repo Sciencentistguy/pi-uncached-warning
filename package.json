@@ -1,0 +1,8 @@
+{
+  "name": "pi-uncached-warning",
+  "version": "0.1.0",
+  "description": "Pi extension that warns when the prompt cache has expired and suggests /new to save tokens",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": { "extensions": ["./extensions/index.ts"] }
+}
